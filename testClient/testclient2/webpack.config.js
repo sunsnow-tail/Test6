@@ -36,7 +36,7 @@ module.exports = {
     },
   entry: './src/index.jsx',
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'src'),
     filename: 'index.js',
   },
 };
